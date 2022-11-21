@@ -16,7 +16,12 @@
 - 📄 Know about my experiences [https://drive.google.com/file/d/1L3B2r82rIVxq_W3S2N-9LlrV_P_Kxppy/view?usp=sharing](https://drive.google.com/file/d/1L3B2r82rIVxq_W3S2N-9LlrV_P_Kxppy/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
+<p align="center">
+<a href="https://www.linkedin.com/in/nitin-kalshetty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vishal-r-4153b7133/" height="30" width="40" /></a>
+  </p>
+  
 <p align="left">
+  
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
