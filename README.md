@@ -45,15 +45,16 @@
        <br/>
         <div align="center"><h3 align="center">Backend</h3> 
       <img src="https://img.shields.io/badge/Java-339933?style=for-the-badge" align="center" alt="java" />
-      <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge" align="center" alt="expressjs"/>
-      <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge" align="center" alt="mongodb"/>
-      <img src="https://img.shields.io/badge/mongoose-%2300f.svg?style=for-the-badge" align="center" alt="mongoose"/>
+      <img src="https://img.shields.io/badge/Spring-000000?style=for-the-badge" align="center" alt="spring"/>
+      <img src="https://img.shields.io/badge/My-Sql-4EA94B?style=for-the-badge" align="center" alt="mySql"/>
+      <img src="https://img.shields.io/badge/Hibernate-%2300f.svg?style=for-the-badge" align="center" alt="hibernate"/>
+         <img src="https://img.shields.io/badge/SpringBoot-%2300f.svg?style=for-the-badge" align="center" alt="springBoot"/>
        </div>
         <div align="center"><h3 align="center">Tools</h3> 
          <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" align="center" alt="git"/>
       <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"  align="center" alt="github"/>
          <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"  align="center" alt="vscode"/>
-        <img src="https://img.shields.io/badge/-Sts-blue?style=for-the-badge&logo=netlify&logoColor=#00C7B7" align="center" alt="sts"/>
+        <img src="https://img.shields.io/badge/-Sts-blue?style=for-the-badge" align="center" alt="sts"/>
          <br/>
       <br/>
          <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" align="center" alt="slack"/>
@@ -66,9 +67,23 @@
       <hr />
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
+<p align="left"> 
+ <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+ <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+ <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
+ <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
+ <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
+ <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
+ </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nitin-kalshetty&show_icons=true&locale=en&layout=compact" alt="nitin-kalshetty" /></p>
+<p>
+ <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nitin-kalshetty&show_icons=true&locale=en&layout=compact" alt="nitin-kalshetty" />
+ </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nitin-kalshetty&show_icons=true&locale=en" alt="nitin-kalshetty" /></p>
 
