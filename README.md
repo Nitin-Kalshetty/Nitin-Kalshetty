@@ -24,7 +24,7 @@
      <img src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" align="center" alt="Portfolio"> </a>
       <a title="Nitin Kalshetty" href="mailto:nitinkalshetty3851@gmail.com" target="_blank">
      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" align="center" alt="html5"> </a> 
-<!--      </div> -->
+     </div>
       
 <p align="center">
 <a href="https://in.linkedin.com/in/nitinkalshetty" target="blank"><img align="center" src="https://user-images.githubusercontent.com/107457194/205663246-9eefb195-bee1-48e5-b9a3-5d0948bcdfc5.png" alt="https://in.linkedin.com/in/nitinkalshetty/" height="30" width="40" /></a>
