@@ -44,10 +44,10 @@
       </div>
        <br/>
         <div align="center"><h3 align="center">Backend</h3> 
-      <img src="https://img.shields.io/badge/Java-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" align="center" alt="java" />
-      <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" align="center" alt="expressjs"/>
-      <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" align="center" alt="mongodb"/>
-      <img src="https://img.shields.io/badge/mongoose-%2300f.svg?style=for-the-badge&logo=fastify&logoColor=white" align="center" alt="mongoose"/>
+      <img src="https://img.shields.io/badge/Java-339933?style=for-the-badge" align="center" alt="java" />
+      <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge" align="center" alt="expressjs"/>
+      <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge" align="center" alt="mongodb"/>
+      <img src="https://img.shields.io/badge/mongoose-%2300f.svg?style=for-the-badge" align="center" alt="mongoose"/>
        </div>
         <div align="center"><h3 align="center">Tools</h3> 
          <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" align="center" alt="git"/>
