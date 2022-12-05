@@ -16,6 +16,7 @@
 - 📄 Know about my experiences [https://drive.google.com/file/d/1L3B2r82rIVxq_W3S2N-9LlrV_P_Kxppy/view?usp=sharing](https://drive.google.com/file/d/1L3B2r82rIVxq_W3S2N-9LlrV_P_Kxppy/view?usp=sharing)
 
 <!-- <h3 align="left">Connect with me:</h3> -->
+      <hr />
       <h2 align="center">📱 Connect with me</h2>
       <br />
      <div align="center" >
@@ -32,6 +33,7 @@
      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" align="center" alt="html5"> </a>
      
      </div>
+     <hr />
       
 <p align="center">
 <a href="https://in.linkedin.com/in/nitinkalshetty" target="blank"><img align="center" src="https://user-images.githubusercontent.com/107457194/205663246-9eefb195-bee1-48e5-b9a3-5d0948bcdfc5.png" alt="https://in.linkedin.com/in/nitinkalshetty/" height="30" width="40" /></a>
