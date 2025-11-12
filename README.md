@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **nitinkalshetty3851@gmail.com**
 
-- 📄 Know about my experiences [(https://drive.google.com/file/d/1G57Mx8CRKnY6DRh5qkZDWGxqh7NKk0dt/view)]
+- 📄 Know about my experiences [(https://drive.google.com/file/d/1-nXXs2W3XuVGkcaHWRw57JZjKQIxCIkE/view?usp=sharing)]
 <h3 align="left">Connect with me:</h3>
  <div align="center" >
      <a href="https://in.linkedin.com/in/nitinkalshetty/" target="_blank">
